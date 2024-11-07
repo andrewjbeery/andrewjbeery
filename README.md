@@ -1,6 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm <a href="https://github.com/andrewjbeery">AJ</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/aj-beery/">LinkedIn</a>
+  <a href="https://www.ajbeery.com/">My Website</a>
 <!--   • <a href="https://www.instagram.com/shwetang_singh/">[Instagram](https://www.instagram.com/aj_beery/)</a> -->
 </p>
 
