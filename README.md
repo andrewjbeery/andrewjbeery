@@ -12,7 +12,7 @@
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently studying data science and information science at the University of Wisconsin - Madison. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: andrewjbeery@gmail.com.
+- 📫  How to reach me: aj@ajbeery.com.
 
 ***
 
